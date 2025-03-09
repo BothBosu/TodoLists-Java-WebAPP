@@ -2,7 +2,8 @@
 
 ## Overview
 This web application provides a simple and intuitive todo list management system with user authentication. It allows users to register, login, create, manage, and organize their personal todo lists. The application was developed as part of an assignment for the Software System Construction class.
-![Screenshot 2025-03-07 125322](https://github.com/user-attachments/assets/cff310fa-596d-45fe-ad00-14daa47595a3)
+
+![Screenshot 2025-03-07 125137](https://github.com/user-attachments/assets/83a722b2-01c3-4f0f-9a4c-7d87f8ec9bb6)
 ![Screenshot 2025-03-07 125204](https://github.com/user-attachments/assets/46599005-cd28-40de-ab50-6d5a6faf216d)
 
 ## Features
